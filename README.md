@@ -1,2 +1,4 @@
 # Chess-Game
-Our C++ Chess Game
+
+C++ Chess Game for our OOP Final Project.
+
